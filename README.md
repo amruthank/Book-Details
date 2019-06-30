@@ -2,7 +2,7 @@
 
 Please setup Django framework-2.2.2.
 
-List of API's:
+List of below API's:
   1. GET http://localhost:8080/api/external-books?name=:nameOfABook<br/>
   The above API display matching book details else display empty data.
   
